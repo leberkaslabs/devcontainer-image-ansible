@@ -1,0 +1,8 @@
+# Python requirements for executing
+ansible
+ansible-lint
+docker
+j2lint
+molecule
+molecule-plugins[docker]
+yamllint

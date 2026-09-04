@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/python:3.12
+FROM mcr.microsoft.com/devcontainers/python:3.14
 
 LABEL org.opencontainers.image.source="https://github.com/leberkaslabs/devcontainer-image-ansible"
 
